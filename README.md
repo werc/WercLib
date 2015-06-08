@@ -1,3 +1,3 @@
 # WercLib
 
-common library
+ZF2 common library for CMS
