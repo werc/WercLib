@@ -1,0 +1,11 @@
+{
+  "name" : "werc/WercLib",
+  "version" : "0.1",
+  "require" : {
+    "php" : ">=5.5.10"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
