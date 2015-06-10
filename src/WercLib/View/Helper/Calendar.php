@@ -36,7 +36,7 @@ class Calendar extends AbstractCalendar
                 $hash = 'day=' . $day . '&month=' . $month . '&year=' . $year;
                 
                 $format = '<a %s href="%s">%s</a>';
-                $url = '/bowling/on-line-rezervace-drah?hs=' . Coder::encode($hash);
+                $url = '';
                 $link = sprintf($format, $today, $url, $day);
             }
             
